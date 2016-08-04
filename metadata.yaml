@@ -1,0 +1,39 @@
+_repo: Utopia_2130
+_version: 0.0.1
+creator:
+  author:
+    agent_name: More, Thomas, Saint
+    aliases:
+    - Moore, Thomas, Saint
+    - More, Thomas, Sir, Saint
+    - Morus, Thomas
+    birthdate: 1478
+    deathdate: 1535
+    gutenberg_agent_id: '827'
+    url: http://www.gutenberg.org/2009/agents/827
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_More
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_bookshelf:
+- Harvard Classics
+- Politics
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias -- Early works to 1800'
+- !lcc 'HX'
+- GITenberg
+title: Utopia
+url: http://www.gutenberg.org/ebooks/2130
